@@ -74,8 +74,7 @@ customer_retail.csv
 ```
 ## Run in Google Colab
 Open directly in Colab:
-
-https://colab.research.google.com/github/your-username/your-repo/blob/main/customer_retail_analysis.ipynb
+ https://colab.research.google.com/github/miral347/customer-retail-analysis/blob/main/customer_retail_analysis%20(1).ipynb
 
 
 ## Future Improvements
