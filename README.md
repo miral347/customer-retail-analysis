@@ -81,7 +81,4 @@ customer_retail.csv
 * Advanced data visualization
 * Customer segmentation and clustering
 
-## Author
-
-Meghana
-
+ 
