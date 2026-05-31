@@ -72,6 +72,11 @@ Customer_Retail_Analysis.ipynb
 README.md
 customer_retail.csv
 ```
+## Run in Google Colab
+Open directly in Colab:
+
+https://colab.research.google.com/github/your-username/your-repo/blob/main/customer_retail_analysis.ipynb
+
 
 ## Future Improvements
 
